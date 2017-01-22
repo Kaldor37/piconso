@@ -12,7 +12,7 @@ $oMenu = new Menu();
 		<!-- Stylesheets -->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
-		<link rel="stylesheet" href="https://code.getmdl.io/1.2.0/material.indigo-blue.min.css" />
+		<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-blue.min.css" />
 		<link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css">
 		<link rel="stylesheet" type="text/css" href="css/piconso.css">
 
@@ -21,7 +21,7 @@ $oMenu = new Menu();
 		<script src="js/jquery-ui.min.js"></script>
 		<script src="js/highcharts.js"></script>
 		<script src="js/highcharts-more.js"></script>
-		<script src="https://code.getmdl.io/1.2.0/material.min.js"></script>
+		<script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 		<script src="js/piconso.js"></script>
 		<script language="javascript">
 		var sCurrentPage = <?=json_encode($oMenu->page());?>;
