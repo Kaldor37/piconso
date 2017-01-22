@@ -1,0 +1,28 @@
+.loadingSpinner {
+	margin: auto;
+}
+
+.datePickerButtons {
+	margin: auto;
+}
+
+#showDatesButton {
+	position: absolute;
+	right: 20px;
+	top: 25px;
+}
+
+#showDatesButtonSpacer{
+	max-width: 50px;
+}
+
+#dateSelectionDiv{
+	top: 30px;
+	margin-top: 0;
+	display: none;
+	padding: 10px;
+}
+
+.dashBoardCard{
+	height: 300px;
+}

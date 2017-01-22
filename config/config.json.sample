@@ -1,0 +1,17 @@
+{
+	"teleinfo":{
+		"file": "/dev/ttyAMA0"
+	},
+	"logs":{
+		"ident": "piconso",
+		"facility": "local0",
+		"priority": "debug"
+	},
+	"dbms":{
+		"type": "mysql",
+		"host": "localhost",
+		"db": "piconso",
+		"user": "piconso",
+		"pass": "TODO"
+	}
+}
