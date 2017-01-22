@@ -1,2 +1,2 @@
-# piconso
+# PiConso
 Power consumption manager
